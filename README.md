@@ -5,15 +5,7 @@
 
 ## 📂 قائمة المواضيع
 
-### 🔹 برمجة
-- [مقدمة في Python](programming/python.md)
-- [JavaScript وأساسياته](programming/javascript.md)
-- [Git و GitHub](programming/git.md)
 
-### 🔹 علم البيانات
-- [تعلم الآلة](data-science/machine-learning.md)
-- [تعلم عميق](data-science/deep-learning.md)
-- [الإحصاء لعلم البيانات](data-science/statistics.md)
 
 ### 📌 كيف تستخدم هذه الملخصات؟
 1. اضغط على أي موضوع لفتح ملف الملخص.
